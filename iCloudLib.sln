@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCloudLib", "iCloudLib\iCloudLib.csproj", "{32919B31-542C-42D2-8C5F-BB44033D92B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iCloudTestApp", "iCloudTestApp\iCloudTestApp.csproj", "{91BFCBC1-1C21-4B62-A6CF-8904605048DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{32919B31-542C-42D2-8C5F-BB44033D92B9}.Release|x86.ActiveCfg = Release|Any CPU
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Debug|x86.ActiveCfg = Debug|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Debug|x86.Build.0 = Debug|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Release|Any CPU.ActiveCfg = Release|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Release|Mixed Platforms.Build.0 = Release|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Release|x86.ActiveCfg = Release|x86
+		{91BFCBC1-1C21-4B62-A6CF-8904605048DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
